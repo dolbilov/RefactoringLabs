@@ -1,0 +1,15 @@
+D:\IT\Projects\PPPP4\PPPP4\bin\Debug\net6.0\PPPP4.exe
+D:\IT\Projects\PPPP4\PPPP4\bin\Debug\net6.0\PPPP4.deps.json
+D:\IT\Projects\PPPP4\PPPP4\bin\Debug\net6.0\PPPP4.runtimeconfig.json
+D:\IT\Projects\PPPP4\PPPP4\bin\Debug\net6.0\PPPP4.dll
+D:\IT\Projects\PPPP4\PPPP4\bin\Debug\net6.0\ref\PPPP4.dll
+D:\IT\Projects\PPPP4\PPPP4\bin\Debug\net6.0\PPPP4.pdb
+D:\IT\Projects\PPPP4\PPPP4\obj\Debug\net6.0\PPPP4.csproj.AssemblyReference.cache
+D:\IT\Projects\PPPP4\PPPP4\obj\Debug\net6.0\PPPP4.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Projects\PPPP4\PPPP4\obj\Debug\net6.0\PPPP4.AssemblyInfoInputs.cache
+D:\IT\Projects\PPPP4\PPPP4\obj\Debug\net6.0\PPPP4.AssemblyInfo.cs
+D:\IT\Projects\PPPP4\PPPP4\obj\Debug\net6.0\PPPP4.csproj.CoreCompileInputs.cache
+D:\IT\Projects\PPPP4\PPPP4\obj\Debug\net6.0\PPPP4.dll
+D:\IT\Projects\PPPP4\PPPP4\obj\Debug\net6.0\ref\PPPP4.dll
+D:\IT\Projects\PPPP4\PPPP4\obj\Debug\net6.0\PPPP4.pdb
+D:\IT\Projects\PPPP4\PPPP4\obj\Debug\net6.0\PPPP4.genruntimeconfig.cache
